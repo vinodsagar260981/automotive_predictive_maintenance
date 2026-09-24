@@ -1,0 +1,9 @@
+Engine Vibration
+
+Increased engine vibration can be associated with mechanical issues.
+
+Possible inspection areas include engine mounts, rotating components,
+imbalance, and other mechanical components.
+
+Vibration measurements should be evaluated against the vehicle's
+historical operating behavior.

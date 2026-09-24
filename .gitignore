@@ -1,0 +1,53 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Machine learning models
+models/
+*.joblib
+*.pkl
+
+# Vector stores
+vector_store/
+*.faiss
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local database / development files
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / React
+node_modules/
+dist/
