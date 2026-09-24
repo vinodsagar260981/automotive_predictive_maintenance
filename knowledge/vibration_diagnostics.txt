@@ -1,9 +1,41 @@
-Engine Vibration
+# Vibration Diagnostics Knowledge
 
-Increased engine vibration can be associated with mechanical issues.
+## Engine Vibration
 
-Possible inspection areas include engine mounts, rotating components,
-imbalance, and other mechanical components.
+Engine vibration represents mechanical oscillations generated during engine operation.
 
-Vibration measurements should be evaluated against the vehicle's
-historical operating behavior.
+Abnormal engine vibration can be associated with:
+- Worn or damaged engine mounts
+- Engine misfire
+- Ignition problems
+- Unbalanced rotating components
+- Mechanical imbalance
+
+## Vibration Trend
+
+An increasing vibration trend should be compared with the vehicle's historical operating behavior.
+
+A single high reading does not necessarily identify the exact mechanical fault.
+
+Increasing vibration combined with other abnormal telemetry should trigger further inspection.
+
+## Diagnostic Areas
+
+When abnormal engine vibration is detected, inspect:
+- Engine mounts
+- Rotating components
+- Ignition system
+- Spark plugs
+- Ignition coils
+- Possible mechanical imbalance
+
+## Predictive Maintenance
+
+The following combination can indicate an increased need for inspection:
+
+- Increasing engine vibration
+- Abnormal engine temperature
+- Abnormal oil pressure
+- Persistent abnormal readings over multiple telemetry records
+
+The telemetry data should be evaluated together with vehicle history and physical inspection results.

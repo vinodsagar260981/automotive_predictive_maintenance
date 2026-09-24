@@ -1,0 +1,60 @@
+# Lubrication System Knowledge
+
+## Oil Temperature
+
+Oil temperature represents the temperature of the engine lubricant.
+
+Typical operating oil temperature is approximately 100-115°C, depending on engine design and operating conditions.
+
+High oil temperature can be associated with:
+- Excessive engine load
+- Low oil level
+- Oil cooler problems
+- Excessive friction
+- Cooling system problems
+
+Persistent high oil temperature can reduce lubricant effectiveness.
+
+## Oil Pressure
+
+Oil pressure is produced by the lubrication system and provides oil flow to engine bearings and other lubricated components.
+
+Typical oil pressure depends on engine speed and operating condition.
+
+Low oil pressure can be associated with:
+- Low oil level
+- Worn engine bearings
+- Oil pump problems
+- Oil leakage
+- Diluted or degraded oil
+- Excessive engine wear
+
+High oil pressure can be associated with:
+- Blocked oil passages
+- Oil pressure relief valve problems
+- Incorrect lubricant viscosity
+
+Low oil pressure should be investigated because insufficient lubrication can result in severe engine damage.
+
+## Lubrication Diagnostics
+
+When abnormal oil pressure or oil temperature is detected, inspect:
+- Engine oil level
+- Oil condition
+- Oil filter
+- Oil pump
+- Oil passages
+- Pressure sensor
+- Recent maintenance history
+
+Oil pressure should be interpreted together with engine RPM and operating conditions.
+
+## Combined Oil Analysis
+
+A combination of:
+- Increasing oil temperature
+- Decreasing oil pressure
+
+can indicate a lubrication-system condition requiring further inspection.
+
+The telemetry trend should be compared against the vehicle's historical behavior before identifying a specific mechanical fault.

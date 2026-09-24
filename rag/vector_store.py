@@ -1,4 +1,4 @@
-from langchain_community.vectorstores import FAISS
+from langchain_chroma import Chroma
 from langchain_ollama import OllamaEmbeddings
 
 
@@ -9,4 +9,9 @@ class VectorStore:
             model="qwen3-embedding:0.6b"
         )
 
-        return FAISS.from_documents(documents, embeddings)
+        return Chroma.from_documents(
+            documents,
+            embeddings,
+            persist_directory="vector_store",
+            collection_name="automotive_knowledge"
+        )

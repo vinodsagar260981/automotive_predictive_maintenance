@@ -1,0 +1,61 @@
+# Engine Maintenance Knowledge
+
+## Engine RPM
+
+Engine RPM represents the rotational speed of the engine crankshaft.
+
+Typical operating ranges:
+- Warm idle: 600-900 RPM
+- Normal driving: 1,500-3,000 RPM
+- High RPM operation should be evaluated against the engine manufacturer's limits.
+
+Abnormal RPM behavior can indicate:
+- Vacuum leaks
+- Throttle body problems
+- Idle control problems
+- Crankshaft or camshaft position sensor faults
+- Engine misfire
+
+A sudden zero or erratic RPM reading can indicate a sensor or signal problem.
+
+## Engine Temperature
+
+Engine temperature represents the thermal condition of the engine.
+
+Typical operating temperature is approximately 90-105°C, depending on the vehicle and operating conditions.
+
+High engine temperature can be associated with:
+- Cooling system problems
+- Thermostat failure
+- Radiator restriction
+- Cooling fan failure
+- Water pump problems
+- Low coolant level
+
+Persistent overheating requires investigation because excessive temperature can damage engine components.
+
+## Coolant Temperature
+
+Coolant temperature should be evaluated together with engine temperature.
+
+Abnormally high coolant temperature can indicate:
+- Thermostat problems
+- Cooling fan problems
+- Radiator restriction
+- Water pump problems
+- Insufficient coolant circulation
+
+A coolant temperature trend should be compared with historical vehicle behavior.
+
+## Engine Maintenance Inspection
+
+When abnormal engine telemetry is detected, inspect:
+- Cooling system
+- Engine operating temperature
+- RPM behavior
+- Sensor signals
+- Engine mounts
+- Visible leaks
+- Relevant maintenance history
+
+Telemetry should be evaluated together with historical operating behavior rather than using a single measurement alone.

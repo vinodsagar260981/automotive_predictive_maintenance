@@ -15,7 +15,7 @@ store = vector_store.create(chunks)
 
 retriever = RAGRetriever(store)
 
-documents = retriever.retrieve("CAR-001 has an engine vibration anomaly")
+documents = retriever.retrieve("CAR-001 has an Engine RPM anomaly")
 
 for document in documents:
     print(document.page_content)
